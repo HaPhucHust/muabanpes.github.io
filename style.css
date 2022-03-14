@@ -1,0 +1,54 @@
+
+#menu li {
+  color: #f1f1f1;
+  display: inline-block;
+  width: 300px;
+  height: 40px;
+  line-height: 40px;
+  margin-left: -5px;
+}
+#menu a {
+  text-decoration: none;
+  text-align: center;
+  background: Navy;
+  color: white;
+  display: block;
+}
+#menu a:hover {
+  background: Aqua;
+  color: Navy;
+}
+#container {
+overflow: auto;
+ background: rgb(245, 244, 243);
+width: auto;
+height: 1000px;
+}
+#chuanick .nick{
+  border-radius: 2%;
+  border: 3px solid rgb(236, 199, 199);
+  width: 50%;
+  height: auto;
+  Width: fit-content; 
+  margin: 10px auto;
+;
+}
+
+#chuanick .nick img{
+display: block;
+width: 98%;
+height: auto;
+margin: auto ;
+margin-bottom: 2%;
+}
+#chuanick .nick .gianick p{
+  text-align: center;
+
+}
+#chuanick {
+  margin-left: 3%;
+  margin-right: 5%;
+}
+#huongdan {
+  text-align: center;
+}
